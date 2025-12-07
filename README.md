@@ -9,3 +9,5 @@ for learning
   * after clone via notepad thittam 3
     thittam 4 from web page
   * for homework3\_1
+editing from git hub for homework3_1
+
